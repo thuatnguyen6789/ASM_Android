@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/drawable/edit_text_background.xml" value="0.1" />
+        <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/layout/item_movie.xml" value="0.1" />
         <entry key="..\:/Users/james/AndroidStudioProjects/DetailMovieJava/app/src/main/res/layout/item_movie_big_size.xml" value="0.1" />
